@@ -1,0 +1,30 @@
+[
+   {
+      "naziv":"55",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"56",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"57",
+      "kapacitet":50,
+      "racunari":0,
+      "dezurni":1,
+      "etf":1
+   },
+   {
+      "naziv":"59",
+      "kapacitet":80,
+      "racunari":0,
+      "dezurni":3,
+      "etf":1
+   }
+]

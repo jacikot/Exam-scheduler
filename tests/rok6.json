@@ -1,0 +1,72 @@
+{
+   "trajanje_u_danima":1,
+   "ispiti":[
+      {
+         "sifra":"13С111П1",
+         "prijavljeni":130,
+         "racunari":0,
+         "odseci":[
+            "СИ"
+         ]
+      },
+      {
+         "sifra":"13Е112АСП",
+         "prijavljeni":130,
+         "racunari":0,
+         "odseci":[
+            "СИ"
+         ]
+      },
+      {
+         "sifra":"13Е043ОЕ",
+         "prijavljeni":130,
+         "racunari":0,
+         "odseci":[
+            "СИ",
+"ИР",
+"ОС",
+"ОФ"
+         ]
+      },
+      {
+         "sifra":"13Е074ГЕМ",
+         "prijavljeni":130,
+         "racunari":0,
+         "odseci":[
+            "СИ"
+         ]
+      },
+      {
+         "sifra":"13Е032Т1",
+         "prijavljeni":80,
+         "racunari":0,
+         "odseci":[
+            "ИР"
+         ]
+      },
+      {
+         "sifra":"13Е052ССЕ",
+         "prijavljeni":80,
+         "racunari":0,
+         "odseci":[
+            "ОС"
+         ]
+      },
+      {
+         "sifra":"13Е062НФ",
+         "prijavljeni":80,
+         "racunari":0,
+         "odseci":[
+            "ОФ"
+         ]
+      },
+{
+         "sifra":"13Е061Н",
+         "prijavljeni":100,
+         "racunari":0,
+         "odseci":[
+            "ОТ"
+         ]
+      }
+   ]
+}
